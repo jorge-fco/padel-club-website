@@ -1,3 +1,9 @@
+*.pug
+.DS_Store
+prepros.config
+assets/css/*
+assets/scss/*
+
 # Logs
 logs
 *.log
